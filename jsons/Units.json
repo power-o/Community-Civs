@@ -397,4 +397,31 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	//powerdom
+	{
+		"name": "lich king"
+		"unit type": "ranged land"
+		"unique to": "powerdom"
+		"movement" : 2,
+		"strength": 8
+		"rangedStrength": 12,
+		"cost": 99999999,
+		"obsolete tech": "agriculture"
+		"uniques": [Unable to capture cities, Can move after attacking, "[+20]% Strength bonus for [land] units within [3] tiles,May capture killed [land] units, [25]% strength <after classacle era>", [50]% strength <after medievel era>, [75]% strength <after renniasance era>, [75]% strength <after industrial era>, [375]% strength <after modern era>]
+		
+		
+	},
+	{
+		"name": "lich apprentace"
+		"replaces": "great generel",
+		"unit type": "ranged land"
+	"unique to": "powerdom"
+		"movement" : 2,
+		"strength": 8
+		"rangedStrength": 8,
+		"uniques": [Unable to capture cities, Can move after attacking, "[+10]% Strength bonus for [land] units within [3] tiles,May capture killed [land] units, [25]% strength <after classacle era>", [50]% strength <after medievel era>, [75]% strength <after renniasance era>, [75]% strength <after industrial era>, [375]% strength <after modern era>]
+	},
+
+
+		
 ]
