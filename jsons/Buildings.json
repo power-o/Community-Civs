@@ -301,4 +301,12 @@
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
+	//powerdom
+	{
+		"name": "tech theft"
+		cost:500
+		"replaces":"courthouse"
+		"unique to": "powerdom"
+		"unique":"free tech"
+	}
 ]
